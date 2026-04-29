@@ -74,12 +74,22 @@ The project includes:
 * How to use Python libraries for data science
 * How to present findings clearly
 
+## Limitations
+
+* The dataset used in this project is outdated, so it may not accurately reflect current MLB player characteristics.
+* Some data required cleaning due to formatting issues, which may have resulted in minor data loss.
+* The analysis focuses only on physical attributes and does not include performance metrics.
+
+These limitations mean that the results should be interpreted as general trends rather than exact representations of modern MLB players.
+
+
 ## Future Improvements
 
 * Use a larger and more recent dataset
 * Add more advanced visualizations
+* Use a more recent and updated dataset
 * Explore position-specific performance metrics
 
 ## Author
 
-High school student from Mexico interested in Computer Science and Data Science
+High school student from Mexico - Marioni Curlango
