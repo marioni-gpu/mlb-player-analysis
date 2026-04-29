@@ -85,7 +85,6 @@ These limitations mean that the results should be interpreted as general trends 
 
 ## Future Improvements
 
-* Use a larger and more recent dataset
 * Add more advanced visualizations
 * Use a more recent and updated dataset
 * Explore position-specific performance metrics
